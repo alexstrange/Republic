@@ -12,7 +12,7 @@ Republic es una herramienta de comunicacion avanzada para el sistema android.
 -	I2c Translator (algoritmo Last Man Standing) Carga de balanceo por cliente hacia los nodos
 
 <p align="center">
-  <img src="../master/Republic.png" width="350"/>
+  <img src="../master/Republic.png"/>
 </p>
 
 <b>Beta testers.
