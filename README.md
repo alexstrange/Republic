@@ -1,4 +1,7 @@
-<img src="../master/ic_launcher.png"/># Republic
+# Republic
+
+<img src="../master/ic_launcher.png" width="100" heigth="100"/>
+
 Advanced Cryptography Comunicator
 
 Republic es una herramienta de comunicacion avanzada para el sistema android.
