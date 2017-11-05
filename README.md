@@ -15,10 +15,23 @@ Republic es una herramienta de comunicacion avanzada para el sistema android.
   <img src="../master/Republic.png"/>
 </p>
 
+
+OPERACIÓN
+
+-	Algoritmos Crunch Evil (Cifrado de token dinámico) y GOST (expansión del algoritmo para cifrado de bloques a 512,1024 y 2048 (experimental)
+-	Clave de cifrado generada dinámicamente (exponente de complejidad de contenido por conversación abierta)  por usuario con 512 bits Crunch Evil.
+-	AES 256 para datos en cache.
+-	Fingerprint y bloqueo de pantalla con PGP usando la clave de token (estático hasta que cambia de canal a otro nodo.
+
+<p align="center">
+  <img src="../master/encryption.png"/>
+</p>
+
+
 <b>Beta testers.
 
 La intencion de este repositorio es encontrar usuarios potenciales que quieran y deseen probar el comunicador.
-Es necesario reportar cuualquier error o disfuncionalidad en la app para ir mejorando el sistema.
+Es necesario reportar cualquier error o disfuncionalidad en la app para ir mejorando el sistema.
 
 Android 5+
 
